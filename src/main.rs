@@ -62,11 +62,21 @@ fn main() {
 */
 
 
+/* 
 //Lesson 6
 //Declare Modules
 mod crypto_publisher_6; 
 //Call Lesson 6
 fn main() {
     crypto_publisher_6::crypto_publisher();
-}
+} 
+*/
 
+
+//Lesson 7
+//Declare Modules
+mod crypto_publisher_7; 
+//Call Lesson 7
+fn main() {
+    crypto_publisher_7::crypto_publisher();
+}

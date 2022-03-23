@@ -1,0 +1,59 @@
+
+
+Wed Mar 23 01:51:17 2022
+Command line: TestDisk
+
+TestDisk 7.1, Data Recovery Utility, July 2019
+Christophe GRENIER <grenier@cgsecurity.org>
+https://www.cgsecurity.org
+OS: Linux, kernel 5.10.102.1-microsoft-standard-WSL2 (#1 SMP Wed Mar 2 00:30:59 UTC 2022) x86_64
+Compiler: GCC 9.2
+ext2fs lib: 1.45.5, ntfs lib: libntfs-3g, reiserfs lib: none, ewf lib: none, curses lib: ncurses 6.1
+User is not root!
+Hard disk list
+
+
+TestDisk exited normally.
+Using locale 'C.UTF-8'.
+
+
+Wed Mar 23 01:51:17 2022
+Command line: TestDisk /debug
+
+TestDisk 7.1, Data Recovery Utility, July 2019
+Christophe GRENIER <grenier@cgsecurity.org>
+https://www.cgsecurity.org
+OS: Linux, kernel 5.10.102.1-microsoft-standard-WSL2 (#1 SMP Wed Mar 2 00:30:59 UTC 2022) x86_64
+Compiler: GCC 9.2
+ext2fs lib: 1.45.5, ntfs lib: libntfs-3g, reiserfs lib: none, ewf lib: none, curses lib: ncurses 6.1
+Warning: can't get size for Disk /dev/mapper/control - 0 B - 0 sectors, sector size=512
+Warning: can't get size for Disk /dev/loop0 - 0 B - 0 sectors, sector size=512
+Warning: can't get size for Disk /dev/loop1 - 0 B - 0 sectors, sector size=512
+Warning: can't get size for Disk /dev/loop2 - 0 B - 0 sectors, sector size=512
+Warning: can't get size for Disk /dev/loop3 - 0 B - 0 sectors, sector size=512
+Warning: can't get size for Disk /dev/loop4 - 0 B - 0 sectors, sector size=512
+Warning: can't get size for Disk /dev/loop5 - 0 B - 0 sectors, sector size=512
+Warning: can't get size for Disk /dev/loop6 - 0 B - 0 sectors, sector size=512
+Warning: can't get size for Disk /dev/loop7 - 0 B - 0 sectors, sector size=512
+Hard disk list
+Disk /dev/sda - 400 MB / 381 MiB - CHS 48 255 63 (RO), sector size=512 - Msft Virtual Disk, FW:1.0
+Disk /dev/sdb - 6442 MB / 6144 MiB - CHS 783 255 63, sector size=512 - Msft Virtual Disk, FW:1.0
+Disk /dev/sdc - 274 GB / 256 GiB - CHS 33418 255 63, sector size=512 - Msft Virtual Disk, FW:1.0
+
+Partition table type (auto): None
+Disk /dev/sdb - 6442 MB / 6144 MiB - Msft Virtual Disk
+Partition table type: None
+
+Interface Advanced
+   P Linux SWAP 2             0   0  1   783  63 56   12582920
+     SWAP2 version 1, pagesize=4096, 6442 MB / 6144 MiB
+
+Interface Advanced
+   P Linux SWAP 2             0   0  1   783  63 56   12582920
+     SWAP2 version 1, pagesize=4096, 6442 MB / 6144 MiB
+
+Interface Advanced
+   P Linux SWAP 2             0   0  1   783  63 56   12582920
+     SWAP2 version 1, pagesize=4096, 6442 MB / 6144 MiB
+
+TestDisk exited normally.
