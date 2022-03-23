@@ -6,7 +6,7 @@ then run the following command from project workspace (e.g., /crypto-publisher):
 
 
 /*
-//Lesson 1: A Simple Application that calls Coinbase REST API
+//Lesson 1: A Simple Async Application that calls Coinbase REST API
 
 //Declare Modules
 mod crypto_publisher_1;
@@ -51,7 +51,7 @@ fn main() {
 */
 
 
-
+/*
 //Lesson 5
 //Declare Modules
 mod crypto_publisher_5; 
@@ -59,3 +59,14 @@ mod crypto_publisher_5;
 fn main() {
     crypto_publisher_5::crypto_publisher();
 }
+*/
+
+
+//Lesson 6
+//Declare Modules
+mod crypto_publisher_6; 
+//Call Lesson 6
+fn main() {
+    crypto_publisher_6::crypto_publisher();
+}
+

@@ -10,3 +10,7 @@ serde = { version = "1.0.136", features = ["derive"] }
 reqwest = { version = "0.11", features = ["json"] }
 tokio = { version = "1.17.0", features = ["full"] }
 clap = { version = "3.1.2", features = ["derive"] }
+
+# Apach Kafka
+rdkafka = { version = "0.25", features = ["cmake-build"] }
+log = "0.4.14"
