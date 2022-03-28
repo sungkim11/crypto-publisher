@@ -6,7 +6,7 @@ This github code repository is a companion to a Medium article => Learn Rust by 
 - Lesson 2: Move Asynchronous call to REST API to a different function (crypto_publisher_2.rs)
 - Lesson 3: Add Command Line Interface (crypto_publisher_3.rs)
 - Lesson 4: Add Time, Crypto Buy Price, Crypto Sell Price, and More CLI Parameters (crypto_publisher_5.rs)
-
+<BR>
 
 <B>Learn Rust by Example: Develop Crypto Publisher "Apache Kafka" Application</B>
 
