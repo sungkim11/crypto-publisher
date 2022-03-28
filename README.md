@@ -9,7 +9,7 @@
 This github code repository is a companion to a Medium article => Learn Rust by Example: Develop Crypto Publisher CLI Application (https://sungkim11.medium.com/learn-rust-by-example-develop-crypto-publisher-cli-application-be5af17e03ae)
 
 
-Learn Rust by Example: Develop Crypto Publisher "Apache Kafka" Application
+<B>Learn Rust by Example: Develop Crypto Publisher "Apache Kafka" Application</B>
 
 - Lesson 1: Produce or publish a crypto price message to Apache Kafka Service (crypto_publisher_6.rs)
 - Lesson 2: Produce or publish a crypto price message in JSON format to Apache Kafka Service (crypto_publisher_7.rs)
