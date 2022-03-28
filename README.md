@@ -8,7 +8,7 @@ This github code repository is a companion to a Medium article => Learn Rust by 
 - Lesson 4: Add Time, Crypto Buy Price, Crypto Sell Price, and More CLI Parameters (crypto_publisher_5.rs)
 
 
-<B>Learn Rust by Example: Develop Crypto Publisher "Apache Kafka" Application</B>
+<B>Learn Rust by Example: Develop Crypto Publisher "Apache Kafka" Application</B><BR>
 This github code repository is a companion to a Medium article => Learn Rust by Example: Develop Crypto Publisher "Apache Kafka" Application (https://medium.com/geekculture/learn-rust-by-example-develop-crypto-publisher-apache-kafka-application-16b22ab88199)
 - Lesson 1: Produce or publish a crypto price message to Apache Kafka Service (crypto_publisher_6.rs)
 - Lesson 2: Produce or publish a crypto price message in JSON format to Apache Kafka Service (crypto_publisher_7.rs)
