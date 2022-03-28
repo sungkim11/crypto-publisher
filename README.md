@@ -1,5 +1,5 @@
 # crypto-publisher
-Learn Rust by Example: Develop Crypto Publisher CLI Application
+<B>Learn Rust by Example: Develop Crypto Publisher CLI Application</B>
 
 - Lesson 1: A Simple Asynchronous Application that calls Coinbase REST API (crypto_publisher_1.rs)
 - Lesson 2: Move Asynchronous call to REST API to a different function (crypto_publisher_2.rs)
